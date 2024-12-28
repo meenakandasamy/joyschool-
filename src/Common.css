@@ -1,0 +1,7 @@
+.image-screen {
+    background: linear-gradient(to bottom right, 
+        #B8DFF0 80%, 
+        
+        #3CA2C4 20%);
+    height: 100vh; /* Full viewport height */
+}
